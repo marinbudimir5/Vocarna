@@ -1,0 +1,5 @@
+Breskva;40;1.99
+Sipak;1;2.99
+Jagoda;130;1.99
+Jabuka;5;3
+Kruska;7;4.99
